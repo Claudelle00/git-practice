@@ -1,0 +1,4 @@
+- milk
+- egg
+- candles
+- meat
